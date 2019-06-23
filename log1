@@ -1,0 +1,237 @@
+* Detected CPU: GenuineIntel Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, F6/M158/S9 Counts: 4
+* CPU Features: RDTSC, MMX, SSE, SSE2, SSE3, SSE4.1, SSE4.2
+
+Initializing File System...
+using fs-ltx c:\igri\op-2.1-1\fsgame.ltx
+CLocatorAPI::_initialize, FS: 99605 files cached, 22963Kb memory used.
+Init FileSystem 2.591117 sec
+[23.06.19 20:18:56.655] 'xrCore' build 7423, Jun  3 2019
+[23.06.19 20:18:56.655] OP 2.1 Engine ver 1.0f patch ver 0.8
+[23.06.19 20:18:56.655] 
+[23.06.19 20:18:56.867] - Found HUDs [ advancer asket asket_v2 cop cop_v2 cop_v3 default heroin_zero heroin_zero_v2 modern neoclassic oracle_new overhaul overhaul_2 overhaul_light pda serafim stalker_shoc ]
+[23.06.19 20:18:56.867] Initializing Engine...
+[23.06.19 20:18:56.868] - Create user-defined param [ amk_option_hud amk_option_mus amk_option_treasure autochange_difficulty autograb_body autosave_enable
+[23.06.19 20:18:56.868]  buy_item death_counter dynamic_bioradar ext_animations fast_respawn horror_time_enable invalid_objects new_sms pause_on_load pause_on_load_call_sound
+[23.06.19 20:18:56.868]  respawn_type transparent_treasure user_name ]
+[23.06.19 20:18:56.868] Loading  config for renderer 
+[23.06.19 20:18:56.868] Executing config-script "user.ltx"...
+[23.06.19 20:18:56.869] [c:\igri\op-2.1-1\userdata\user.ltx] successfully loaded.
+[23.06.19 20:18:56.869] Starting INPUT device...
+[23.06.19 20:18:56.876] Loading DLL: xrRender_R1.dll
+[23.06.19 20:18:56.877] Loading DLL: xrGame.dll
+[23.06.19 20:18:56.878] 'xrGame' build Jun  3 2019 11:46:02
+[23.06.19 20:18:56.911] * [win32]: free[4002560 K], reserved[56400 K], committed[135280 K]
+[23.06.19 20:18:56.911] * [ D3D ]: textures[0 K]
+[23.06.19 20:18:56.911] * [x-ray]: crt heap[36214 K], process heap[36214 K], game lua[0 K], engine lua[0 K], render[0 K]
+[23.06.19 20:18:56.911] * [x-ray]: economy: strings[count: 37528, lengths: 1024 K, overhead: 1172 K, saved: 15369 K]
+[23.06.19 20:18:56.911] * [x-ray]: economy: smem[count: 0, lengths: 0 K, overhead: 0 K, saved: 0 K]
+[23.06.19 20:18:56.911] Executing config-script "c:\igri\op-2.1-1\gamedata\config\default_controls.ltx"...
+[23.06.19 20:18:56.912] [c:\igri\op-2.1-1\gamedata\config\default_controls.ltx] successfully loaded.
+[23.06.19 20:18:56.912] Executing config-script "user.ltx"...
+[23.06.19 20:18:56.912] Executing config-script "c:\igri\op-2.1-1\gamedata\config\rspec_default.ltx"...
+[23.06.19 20:18:56.912] [c:\igri\op-2.1-1\gamedata\config\rspec_default.ltx] successfully loaded.
+[23.06.19 20:18:56.912] Executing config-script "c:\igri\op-2.1-1\gamedata\config\default_controls.ltx"...
+[23.06.19 20:18:56.912] [c:\igri\op-2.1-1\gamedata\config\default_controls.ltx] successfully loaded.
+[23.06.19 20:18:56.912] - Maximum allowed affinity mask: 0xF, current: 0xE
+[23.06.19 20:18:56.913] [c:\igri\op-2.1-1\userdata\user.ltx] successfully loaded.
+[23.06.19 20:18:56.913] SOUND: OpenAL: enumerate devices...
+[23.06.19 20:18:56.913] SOUND: OpenAL: EnumerationExtension Present
+[23.06.19 20:18:56.913] devices OpenAL Soft
+[23.06.19 20:18:56.913] SOUND: OpenAL: system  default SndDevice name is OpenAL Soft
+[23.06.19 20:18:56.934] SOUND: OpenAL: All available devices:
+[23.06.19 20:18:56.934] 1. OpenAL Soft, Spec Version 1.1 (default)
+[23.06.19 20:18:56.934] SOUND: OpenAL: SelectBestDevice is OpenAL Soft 1.1
+[23.06.19 20:18:56.943] SOUND: OpenAL: Required device: OpenAL Soft. Created device: OpenAL Soft.
+[23.06.19 20:18:56.946] * sound: EAX 2.0 extension: absent
+[23.06.19 20:18:56.946] * sound: EAX 2.0 deferred: absent
+[23.06.19 20:18:56.946] * sound : cache: 65538 kb, 7609 lines, 8820 bpl
+[23.06.19 20:18:56.949] Starting RENDER device...
+[23.06.19 20:18:56.972] * GPU [vendor:10DE]-[device:1C8C]: NVIDIA GeForce GTX 1050 Ti
+[23.06.19 20:18:56.972] * GPU driver: 25.21.14.1917
+[23.06.19 20:18:57.110] * CREATE: DeviceREF: 1
+[23.06.19 20:18:57.110] *     Texture memory: 4056 M
+[23.06.19 20:18:57.110] *          DDI-level: 9.0
+[23.06.19 20:18:57.121] * GPU shading: vs(fffe0300/3.0/30), ps(ffff0300/3.0/30)
+[23.06.19 20:18:57.121] * GPU vertex cache: unrecognized, 16
+[23.06.19 20:18:57.121] * DVB created: 4096K
+[23.06.19 20:18:57.121] * DIB created: 512K
+[23.06.19 20:18:57.212] load time LTX=76 ms
+[23.06.19 20:18:57.220] count of .thm files=3228
+[23.06.19 20:18:57.266] load time THM=54 ms
+[23.06.19 20:18:57.266] * distortion: used, dev(30),need(14)
+[23.06.19 20:18:57.266] * SSample: 2048x2048
+[23.06.19 20:18:57.273] * SSample: enabled
+[23.06.19 20:18:57.390] - r__tf_aniso 16
+[23.06.19 20:18:57.390] - r1_tf_mipbias 0.
+[23.06.19 20:18:57.402] Script debugger succesfully restarted.
+[23.06.19 20:18:59.262] - Gamedata version: [Сборка 2.1 final p.8k]
+[23.06.19 20:18:59.336] Starting engine...
+[23.06.19 20:18:59.401] GMLib loaded at 62 msec
+[23.06.19 20:18:59.808] Game_Globals loaded at 406 msec
+[23.06.19 20:18:59.904] App_Start loaded at 96 msec
+[23.06.19 20:18:59.913] ui_core loaded at 8 msec
+[23.06.19 20:18:59.938] Loading DLL: xrGameSpy.dll
+[23.06.19 20:19:00.065] Main_Menu loaded at 152 msec
+[23.06.19 20:19:08.580] * DVB created: 4096K
+[23.06.19 20:19:08.580] * DIB created: 512K
+[23.06.19 20:19:08.580] - r__tf_aniso 16
+[23.06.19 20:19:08.580] - r1_tf_mipbias 0.
+[23.06.19 20:19:08.580] * SSample: 2048x2048
+[23.06.19 20:19:08.587] * SSample: enabled
+[23.06.19 20:19:08.587] * GPU shading: vs(fffe0300/3.0/30), ps(ffff0300/3.0/30)
+[23.06.19 20:19:08.587] * GPU vertex cache: recognized, 24
+[23.06.19 20:19:08.587] *** RESET [3083 ms]
+[23.06.19 20:19:08.595] "c:\igri\op-2.1-1\bin\xr_3da.exe" -nointro
+[23.06.19 20:19:08.595] Begin load
+[23.06.19 20:19:08.596] * phase time: 0 ms
+[23.06.19 20:19:08.633] * phase cmem: 237479 K
+[23.06.19 20:19:08.633] Prefetching objects...
+[23.06.19 20:19:08.682] * Objects loaded in 0 ms
+[23.06.19 20:19:09.531] * Models loaded in 848 ms
+[23.06.19 20:19:09.569] * Prefetch memory:  720926Kb
+[23.06.19 20:19:09.573] * phase time: 977 ms
+[23.06.19 20:19:09.612] * phase cmem: 921504 K
+[23.06.19 20:19:09.612] Starting server...
+[23.06.19 20:19:09.651] - Gamedata version: [Сборка 2.1 final p.8k]
+[23.06.19 20:19:09.697] * phase time: 122 ms
+[23.06.19 20:19:09.735] * phase cmem: 919264 K
+[23.06.19 20:19:09.735] Loading alife simulator...
+[23.06.19 20:19:09.735] * phase time: 38 ms
+[23.06.19 20:19:09.774] * phase cmem: 919256 K
+[23.06.19 20:19:09.774] Loading savegame...
+[23.06.19 20:19:09.797] * Loading key-value pairs...
+[23.06.19 20:19:09.835] * 19 key-value pairs were successfully loaded (0.038s)
+[23.06.19 20:19:09.835] * Loading spawn registry...
+[23.06.19 20:19:11.828] * 25177 spawn points were successfully loaded (1.994s)
+[23.06.19 20:19:11.829] * Loading objects...
+[23.06.19 20:19:12.478] * 34610 objects were successfully loaded (0.648s) 34610
+[23.06.19 20:19:13.170] * Start objects on_register'ed...
+[23.06.19 20:19:14.713] * 34610 objects on_register'ed (1.543s)
+[23.06.19 20:19:14.714] * Game Сектор обстрела is successfully loaded from file 'c:\igri\op-2.1-1\userdata\savedgames\Сектор обстрела.sav' (4.979s)
+[23.06.19 20:19:14.714] * phase time: 4978 ms
+[23.06.19 20:19:14.784] * phase cmem: 1073274 K
+[23.06.19 20:19:14.784] Connecting...
+[23.06.19 20:19:14.810] MaxPlayers = 32
+[23.06.19 20:19:14.834] * phase time: 120 ms
+[23.06.19 20:19:14.902] * phase cmem: 1092267 K
+[23.06.19 20:19:14.902] Connecting to...
+[23.06.19 20:19:14.908]  Player not found. New player created.
+[23.06.19 20:19:14.908] * client : connection accepted - <>
+[23.06.19 20:19:14.914] * phase time: 80 ms
+[23.06.19 20:19:14.985] * phase cmem: 1092291 K
+[23.06.19 20:19:14.985] Reading level info...
+[23.06.19 20:19:14.986] * phase time: 71 ms
+[23.06.19 20:19:15.054] * phase cmem: 1092291 K
+[23.06.19 20:19:15.054] Loading object space...
+[23.06.19 20:19:15.278] * object space load: 224 ms
+[23.06.19 20:19:15.278] * phase time: 292 ms
+[23.06.19 20:19:15.346] * phase cmem: 1164959 K
+[23.06.19 20:19:15.346] Loading shaders (R1)...
+[23.06.19 20:19:15.490] * phase time: 211 ms
+[23.06.19 20:19:15.560] * phase cmem: 1166623 K
+[23.06.19 20:19:15.560] Loading geometry (R1)...
+[23.06.19 20:19:15.601] * phase time: 111 ms
+[23.06.19 20:19:15.670] * phase cmem: 1222390 K
+[23.06.19 20:19:15.670] Loading visuals (R1)...
+[23.06.19 20:19:15.703] * phase time: 101 ms
+[23.06.19 20:19:15.773] * phase cmem: 1227316 K
+[23.06.19 20:19:15.773] Loading details (R1)...
+[23.06.19 20:19:15.797] * [DETAILS] VertexConsts(256), Batch(61)
+[23.06.19 20:19:15.797] * [DETAILS] 40687 v(20), 26352 p
+[23.06.19 20:19:15.797] * [DETAILS] Batch(61), VB(794K), IB(154K)
+[23.06.19 20:19:15.798] * phase time: 95 ms
+[23.06.19 20:19:15.869] * phase cmem: 1228342 K
+[23.06.19 20:19:15.869] Loading sectors (R1)...
+[23.06.19 20:19:15.870] * Loading HOM: c:\igri\op-2.1-1\gamedata\levels\l01_escape\level.hom
+[23.06.19 20:19:15.872] * Loading environment modificator: c:\igri\op-2.1-1\gamedata\levels\l01_escape\level.env_mod
+[23.06.19 20:19:15.872] * phase time: 73 ms
+[23.06.19 20:19:15.942] * phase cmem: 1228503 K
+[23.06.19 20:19:15.942] Loading AI objects...
+[23.06.19 20:19:15.944] - Loading music tracks from 'l01_escape_musics'...
+[23.06.19 20:19:15.947] * phase time: 74 ms
+[23.06.19 20:19:16.021] * phase cmem: 1228466 K
+[23.06.19 20:19:16.021] Loading PH world...
+[23.06.19 20:19:16.043] - Game configuring : Started 
+[23.06.19 20:19:16.046] - Game configuring : Finished 
+[23.06.19 20:19:16.185] * phase time: 238 ms
+[23.06.19 20:19:16.255] * phase cmem: 1241162 K
+[23.06.19 20:19:16.255] Loading textures...
+[23.06.19 20:19:16.655] * t-report - base: 1183, 992734 K
+[23.06.19 20:19:16.655] * t-report - lmap: 10, 10241 K
+[23.06.19 20:19:16.656] * phase time: 470 ms
+[23.06.19 20:19:16.728] * phase cmem: 1539534 K
+[23.06.19 20:19:16.728] Synchronizing...
+[23.06.19 20:19:16.729] Save created on [Engine 1.0f p 0.8]
+[23.06.19 20:19:16.729] Save date and time [Sun Jun 23 20:17:33 2019]
+[23.06.19 20:19:16.745] * phase time: 88 ms
+[23.06.19 20:19:16.818] * phase cmem: 1539534 K
+[23.06.19 20:19:17.032] * [win32]: free[1872880 K], reserved[241868 K], committed[2079492 K]
+[23.06.19 20:19:17.032] * [ D3D ]: textures[1002975 K]
+[23.06.19 20:19:17.032] * [x-ray]: crt heap[1537946 K], process heap[1537946 K], game lua[194979 K], engine lua[303 K], render[0 K]
+[23.06.19 20:19:17.032] * [x-ray]: economy: strings[count: 183112, lengths: 9414 K, overhead: 5722 K, saved: 23452 K]
+[23.06.19 20:19:17.032] * [x-ray]: economy: smem[count: 0, lengths: 0 K, overhead: 0 K, saved: 0 K]
+[23.06.19 20:19:17.032] * Starting measure
+[23.06.19 20:19:25.935] * MEMORY USAGE: 2029097 K
+[23.06.19 20:19:50.957]  [LUA] SCRIPT RUNTIME ERROR
+[23.06.19 20:19:50.957]  [LUA] c:\igri\op-2.1-1\gamedata\scripts\cycle_task.script:455: bad argument #1 to 'pairs' (table expected, got nil)
+[23.06.19 20:19:50.957]  
+[23.06.19 20:19:50.957] FATAL ERROR
+[23.06.19 20:19:50.957]  
+[23.06.19 20:19:50.957] [error]Expression    : fatal error
+[23.06.19 20:19:50.957] [error]Function      : CScriptEngine::lua_error
+[23.06.19 20:19:50.957] [error]File          : script_engine.cpp
+[23.06.19 20:19:50.957] [error]Line          : 79
+[23.06.19 20:19:50.957] [error]Description   : <no expression>
+[23.06.19 20:19:50.957] [error]Arguments     : LUA error: c:\igri\op-2.1-1\gamedata\scripts\cycle_task.script:455: bad argument #1 to 'pairs' (table expected, got nil) 
+[23.06.19 20:19:50.957]  	
+[23.06.19 20:19:50.957] stack traceback: 
+[23.06.19 20:19:50.957]  
+[23.06.19 20:19:50.957] 
+[23.06.19 20:19:50.957] stack trace:
+[23.06.19 20:19:50.957] 
+[23.06.19 20:19:51.171] *** break by StackWalk ***
+[23.06.19 20:19:51.171] stack trace:
+[23.06.19 20:19:51.171] 
+[23.06.19 20:19:51.171] 	 0023:6866ED3B (0x68683928 0x68683934 0x00D8BCF8 0x00000000) xrCore.dll, xrDebug::backend(), s:\xrcore\xrdebugnew.cpp, 295
+[23.06.19 20:19:51.171] 	 0023:6866F4CF (0x6869C200 0x62F85074 0x0000004F 0x62F85058) xrCore.dll, xrDebug::fatal(), s:\xrcore\xrdebugnew.cpp, 428
+[23.06.19 20:19:51.171] 	 0023:62C43A09 (0x23610018 0x23610018 0x00000001 0x23610018) xrGame.dll, CScriptEngine::lua_error(), s:\xr_3da\xrgame\script_engine.cpp, 79
+[23.06.19 20:19:51.171] 	 0023:6293A9C4 (0x00D8C1B8 0x00D8C1D8 0x00D8C1DC 0x00D8C258) xrGame.dll, luabind::detail::proxy_functor_caller<bool,boost::tuples::tuple<CScriptGameObject * const *,CScriptGameObject * const *,char const * const *,char const * const *,char const * const *,boost::tuples::null_type,boost::tuples::null_type,boost::tuples::null_type,boost::tuples::null_type,boost::tuples::null_type> >::operator bool(), s:\sdk\luabind\luabind\luabind\functor.hpp, 137
+[23.06.19 20:19:51.171] 	 0023:62CCCFA3 (0x9EE39B60 0x83BF6D80 0x1DE7F67C 0x011438EC) xrGame.dll, CPhraseScript::Precondition(), s:\xr_3da\xrgame\phrasescript.cpp, 182
+[23.06.19 20:19:51.171] 	 0023:62CCB721 (0x79ADA9EC 0x00D8C8E8 0x6867122A 0x011486A0) xrGame.dll, CPhraseDialog::SayPhrase(), s:\xr_3da\xrgame\phrasedialog.cpp, 126
+[23.06.19 20:19:51.171] 	 0023:62CCC8D3 (0x79ADA9EC 0x00D8C8E8 0x00D8C8E8 0xB38E1A90) xrGame.dll, CPhraseDialogManager::SayPhrase(), s:\xr_3da\xrgame\phrasedialogmanager.cpp, 77
+[23.06.19 20:19:51.171] 	 0023:62EB41BE (0x00D8C8E8 0x00000000 0x697BDD60 0x00D8C7FC) xrGame.dll, CUITalkWnd::SayPhrase(), s:\xr_3da\xrgame\ui\uitalkwnd.cpp, 339
+[23.06.19 20:19:51.171] 	 0023:62EB43B7 (0x79ADA960 0x00D8C924 0x62EB347B 0x79BC96F0) xrGame.dll, CUITalkWnd::AskQuestion(), s:\xr_3da\xrgame\ui\uitalkwnd.cpp, 323
+[23.06.19 20:19:51.171] 	 0023:62EB4791 (0x79BC96F0 0x0000002E 0x00000000 0x79ADA960) xrGame.dll, CUITalkWnd::SendMessageA(), s:\xr_3da\xrgame\ui\uitalkwnd.cpp, 189
+[23.06.19 20:19:51.171] 	 0023:62EB347B (0x79BC96F0 0xB7D83BB0 0xB7D83BB0 0x596D94C0) xrGame.dll, CUITalkDialogWnd::OnQuestionClicked(), s:\xr_3da\xrgame\ui\uitalkdialogwnd.cpp, 121
+[23.06.19 20:19:51.171] 	 0023:62ED93AB (0xB7D83BB0 0x00000020 0xB7D83BB0 0x79BC96F0) xrGame.dll, CUIWndCallback::OnEvent(), s:\xr_3da\xrgame\ui\uiwndcallback.cpp, 39
+[23.06.19 20:19:51.171] 	 0023:62EB33BF (0xB7D83BB0 0x00000020 0xB7D83BB0 0x79BC96F0) xrGame.dll, CUITalkDialogWnd::SendMessageA(), s:\xr_3da\xrgame\ui\uitalkdialogwnd.cpp, 133
+[23.06.19 20:19:51.171] 	 0023:62EB27F6 (0xB7D83BB0 0x6D8F8C30 0x00000000 0x63777FF0) xrGame.dll, CUIQuestionItem::OnTextClicked(), s:\xr_3da\xrgame\ui\uitalkdialogwnd.cpp, 281
+[23.06.19 20:19:51.171] 	 0023:62ED93AB (0x6D8F8C30 0x00000010 0x00000000 0xB7D83BB0) xrGame.dll, CUIWndCallback::OnEvent(), s:\xr_3da\xrgame\ui\uiwndcallback.cpp, 39
+[23.06.19 20:19:51.171] 	 0023:62EB2E4F (0x6D8F8C30 0x00000010 0x00000000 0xB7D83BB0) xrGame.dll, CUIQuestionItem::SendMessageA(), s:\xr_3da\xrgame\ui\uitalkdialogwnd.cpp, 211
+[23.06.19 20:19:51.171] 	 0023:62EFAD19 (0x6D8F8C30 0x00D8CAC8 0x62EFA691 0x00000002) xrGame.dll, CUIButton::OnClick(), s:\xr_3da\xrgame\ui\uibutton.cpp, 140
+[23.06.19 20:19:51.171] 	 0023:62EF9D6F (0x00000002 0x00000000 0x6D8F8C30 0x00D8CAE0) xrGame.dll, CUI3tButton::OnClick(), s:\xr_3da\xrgame\ui\ui3tbutton.cpp, 39
+[23.06.19 20:19:51.171] 	 0023:62EFA691 (0x42CB1114 0x40B1C700 0x00000003 0x6D8F8C30) xrGame.dll, CUIButton::OnMouse(), s:\xr_3da\xrgame\ui\uibutton.cpp, 92
+[23.06.19 20:19:51.171] 	 0023:62EF961D (0x42CB1114 0x40B1C700 0x00000003 0x00000000) xrGame.dll, CUI3tButton::OnMouse(), s:\xr_3da\xrgame\ui\ui3tbutton.cpp, 48
+[23.06.19 20:19:51.171] 	 0023:62EEF9C5 (0x42CB1114 0x40B1C700 0x00000003 0x40A00000) xrGame.dll, CUIWindow::OnMouse(), s:\xr_3da\xrgame\ui\uiwindow.cpp, 367
+[23.06.19 20:19:51.171] 	 0023:62EEF9C5 (0x42D51114 0x40B1C700 0x00000003 0x00000000) xrGame.dll, CUIWindow::OnMouse(), s:\xr_3da\xrgame\ui\uiwindow.cpp, 367
+[23.06.19 20:19:51.171] 	 0023:62EEF9C5 (0x42D51114 0x40B1C700 0x00000003 0x23610018) xrGame.dll, CUIWindow::OnMouse(), s:\xr_3da\xrgame\ui\uiwindow.cpp, 367
+[23.06.19 20:19:51.171] 	 0023:62F01DB3 (0x42D51114 0x40B1C700 0x00000003 0x41400000) xrGame.dll, CUIScrollView::OnMouse(), s:\xr_3da\xrgame\ui\uiscrollview.cpp, 224
+[23.06.19 20:19:51.171] 	 0023:62EEF9C5 (0x42ED1114 0x42971C70 0x00000003 0x435A0000) xrGame.dll, CUIWindow::OnMouse(), s:\xr_3da\xrgame\ui\uiwindow.cpp, 367
+[23.06.19 20:19:51.171] 	 0023:62EEF9C5 (0x43A84445 0x4400E38E 0x00000003 0x00000000) xrGame.dll, CUIWindow::OnMouse(), s:\xr_3da\xrgame\ui\uiwindow.cpp, 367
+[23.06.19 20:19:51.171] 	 0023:62EEF9C5 (0x43A84445 0x4400E38E 0x00000003 0x43A84445) xrGame.dll, CUIWindow::OnMouse(), s:\xr_3da\xrgame\ui\uiwindow.cpp, 367
+[23.06.19 20:19:51.171] 	 0023:62EED550 (0x00000151 0x79ADA960 0x59F17EB0 0x00D8D1E8) xrGame.dll, CUIDialogWnd::IR_OnKeyboardRelease(), s:\xr_3da\xrgame\ui\uidialogwnd.cpp, 102
+[23.06.19 20:19:51.171] 	 0023:62E99BA4 (0x00000151 0x05A6542C 0x013A328E 0x00000002) xrGame.dll, CUI::IR_OnKeyboardRelease(), s:\xr_3da\xrgame\ui.cpp, 189
+[23.06.19 20:19:51.171] 	 0023:62C63F73 (0x00000151 0x209D2790 0x00000001 0x013A22E3) xrGame.dll, CLevel::IR_OnKeyboardRelease(), s:\xr_3da\xrgame\level_input.cpp, 383
+[23.06.19 20:19:51.171] 	 0023:62C6357F (0x00000000 0x06882F80 0x00D8D780 0x0144E460) xrGame.dll, CLevel::IR_OnMouseRelease(), s:\xr_3da\xrgame\level_input.cpp, 64
+[23.06.19 20:19:51.171] 	 0023:013A22E3 (0x00000003 0x0144E5D4 0x0138FB8C 0x72E144A0) XR_3DA.exe, CInput::MouseUpdate(), s:\xr_3da\xr_input.cpp, 257
+[23.06.19 20:19:51.171] 	 0023:013A2D4A (0x72E144A0 0x062975E0 0x013D63B4 0x0025317E) XR_3DA.exe, CInput::OnFrame(), s:\xr_3da\xr_input.cpp, 397
+[23.06.19 20:19:51.171] 	 0023:0138FB8C (0x0025317E 0x00000000 0x0144E460 0x3BCBD3AE) XR_3DA.exe, CRegistrator<pureRender>::Process(), s:\xr_3da\pure.h, 77
+[23.06.19 20:19:51.171] 	 0023:013D63B4 (0x00000000 0x01451930 0x00B9B000 0x00000008) XR_3DA.exe, CRenderDevice::FrameMove(), s:\xr_3da\device.cpp, 350
+[23.06.19 20:19:51.171] 	 0023:013D6895 (0x01451930 0xFFFFFFFF 0x00D8FA78 0x013A0D50) XR_3DA.exe, CRenderDevice::Run(), s:\xr_3da\device.cpp, 245
+[23.06.19 20:19:51.171] 	 0023:013A113A (0x00000000 0x01451930 0x00000003 0x00000000) XR_3DA.exe, Startup(), s:\xr_3da\x_ray.cpp, 291
+[23.06.19 20:19:51.171] 	 0023:013A0D50 (0x01340000 0x00000000 0x010F3982 0x00000001) XR_3DA.exe, WinMain_impl(), s:\xr_3da\x_ray.cpp, 719
+[23.06.19 20:19:51.171] 	 0023:013A0960 (0x01340000 0x00000000 0x010F3982 0x00000001) XR_3DA.exe, WinMain(), s:\xr_3da\x_ray.cpp, 777
+[23.06.19 20:19:51.171] 	 0023:0139B6CB (0x00B9B000 0x74D98460 0x343C217F 0x00D8FB64) XR_3DA.exe, __scrt_common_main_seh(), f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl, 253
+[23.06.19 20:19:51.171] 	 0023:74D98484 (0x00B9B000 0x74FE9ED7 0x00000000 0x00000000) KERNEL32.DLL, BaseThreadInitThunk()
+[23.06.19 20:19:51.171] 	 0023:775B2FEA (0xFFFFFFFF 0x775CEC1F 0x00000000 0x00000000) ntdll.dll, RtlValidSecurityDescriptor()
+[23.06.19 20:19:51.171] 	 0023:775B2FBA (0x0139B73D 0x00B9B000 0x00000000 0x00000000) ntdll.dll, RtlValidSecurityDescriptor()
